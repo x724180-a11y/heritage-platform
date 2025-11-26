@@ -63,4 +63,9 @@ export default function HomePage({ searchParams }) {
       </footer>
     </div>
   );
+npm install next react react-dom
+# or
+yarn add next react react-dom
+# or
+pnpm add next react react-dom
 }
